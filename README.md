@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/hiroshan madushanka" target="blank"><img src="https://img.shields.io/twitter/follow/hiroshan madushanka?logo=twitter&style=for-the-badge" alt="hiroshan madushanka" /></a> </p>
 
 ---
-- 🔭 I’m currently working on **Hospital management POS system, six Month Project**
+- 🔭 I’m currently working on **VISHRWA Software company**
 
-- 🌱 I’m currently learning **React,Expressjs,Django, Machine Learning, Deep learning JavaScript, Python**
+- 🌱 I’m currently learning ** Flask, React ,Expressjs ,Django, Machine Learning, Deep learning JavaScript, Python**
 
-- 💬 Ask me about **react,Express,python, Javascript**
+- 💬 Ask me about **React,Express, Python, JavaScript, Flask Expertiest**
 
 - 📫 How to reach me **pmhiroshan@gmail.com**
 
